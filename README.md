@@ -61,3 +61,14 @@ Step 7: Visualize results for all pairs
   - Column 4: Enhanced “After” image.  
   - Column 5: Predicted binary change map.  
 - `plt.tight_layout()` and `plt.show()` render the full grid, allowing easy visual comparison of raw images and detected changes for each region.
+
+<img width="1196" height="417" alt="1" src="https://github.com/user-attachments/assets/82553856-69ff-477e-a0af-221ff89878f9" />
+<img width="1196" height="348" alt="2" src="https://github.com/user-attachments/assets/ca28a3d3-1816-4176-89fa-6cd12c73d9d0" />
+<img width="1196" height="367" alt="3" src="https://github.com/user-attachments/assets/78d57242-6b61-47e2-8d0d-f0fe604f8d7e" />
+<img width="1196" height="356" alt="4" src="https://github.com/user-attachments/assets/3a0dd963-99bf-42ab-8a03-bc2ea6813080" />
+<img width="1196" height="394" alt="5" src="https://github.com/user-attachments/assets/9961e2e6-f502-4da3-affd-3076de2e3f21" />
+<img width="1196" height="398" alt="6" src="https://github.com/user-attachments/assets/1bbca212-aaf2-46a2-830d-4c532f94ba1a" />
+<img width="1196" height="415" alt="7" src="https://github.com/user-attachments/assets/1bcadefa-84e8-4e66-97cf-ca622ae5bcfd" />
+<img width="1196" height="335" alt="8" src="https://github.com/user-attachments/assets/f83bbd81-30bc-4c9b-894b-ae5478799b38" />
+<img width="1196" height="345" alt="9" src="https://github.com/user-attachments/assets/7928a02b-735e-4b98-b049-b508d6abd821" />
+<img width="1196" height="353" alt="10" src="https://github.com/user-attachments/assets/0d9f7699-fdec-4313-b1bf-345a2a57507c" />
